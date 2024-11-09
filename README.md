@@ -12,10 +12,6 @@ This app combines real-time text translation and OCR capabilities, allowing user
 - **OCR Support**: Scan images, extract text, and translate the extracted text.
 - **Simple and Intuitive UI**: Easy-to-use interface built with Flutter.
 
-## Screenshots
-
-> Add screenshots of your app here, particularly showing the OCR and translation features.
-
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:
@@ -35,7 +31,7 @@ Clone this repo to your local machine using:
 ```bash
 git clone https://github.com/Shailandra04/Natural_langauge_interpreter.git
 
-## 2. Install Dependencies
+### 2. Install Dependencies
 
 Navigate to the project folder and install the required dependencies using `flutter pub get`:
 
@@ -69,4 +65,3 @@ Once you have everything set up, run the app on your device or emulator:
 
 ```bash
 flutter run
-
